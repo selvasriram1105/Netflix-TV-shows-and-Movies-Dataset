@@ -1,5 +1,5 @@
 # Netflix-TV-shows-and-Movies-Dataset
-# Netflix-Eda-project
+# Netflix-EDA-project
 
 Netflix Data Analysis Report
 
