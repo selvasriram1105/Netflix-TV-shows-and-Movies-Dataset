@@ -35,10 +35,6 @@ Visualization Insights:
 
 7. Best Release Time: A heatmap suggests July and August are optimal months for releases.
 
-Conclusion:
-
-This analysis provides valuable insights into Netflix's content strategy, highlighting trends in release year, genre, country, and rating. These findings can inform content creators, producers, and industry stakeholders.
-
 Recommendations:
 
 1. Diversify genres: Explore emerging genres to cater to changing audience preferences.
@@ -60,3 +56,7 @@ Future Work:
 2. Audience engagement analysis: Examine viewer engagement metrics.
 
 3. Competitor analysis: Compare Netflix's content strategy with competitors.
+
+Conclusion:
+
+This analysis provides valuable insights into Netflix's content strategy, highlighting trends in release year, genre, country, and rating. These findings can inform content creators, producers, and industry stakeholders.
